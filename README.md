@@ -7,9 +7,9 @@ This repository contains the dataset and the source code for the TOIS paper "Lea
 - [References](#References)
 - [Additional Notes](#Additional-Notes)
 
-## DownLoad and Usage
+## Download and Usage
 By using the datasets, you must agree to be bound by the terms of the following [license](#Licence).
-- Then mail to [houyupeng@ruc.edu.cn] and cc Wayne Xin Zhao via [batmanfly@gmail.com] and your supervisor, and **copy the license in the email**. We will send you the datasets by e-mail when approved.
+- Then mail to [houyupeng@ruc.edu.cn](mailto:houyupeng@ruc.edu.cn) and cc Wayne Xin Zhao via [batmanfly@gmail.com](mailto:batmanfly@gmail.com) and your supervisor, and **copy the license in the email**. We will send you the datasets by e-mail when approved.
 
 ## License
 By using the datasets, you must agree to be bound by the terms of the following license.
@@ -39,4 +39,4 @@ If you use our dataset or useful in your research, please kindly cite our papers
 ## Additional Notes
 - The following people contributed equally to this work: Yupeng Hou and Junhua Chen.
 - If you have any questions or suggestions with this dataset, please feel free to contact us. Our goal is to make the dataset reliable and useful for the community.
-- For contact, send email to Yupeng Hou via [houyupeng@ruc.edu.cn](mailto:houyupeng@ruc.edu.cn), and cc Wayne Xin Zhao via [batmanfly@gmail.com](mailto:batmanfly@gmail.com).
+- For contact, send email to [houyupeng@ruc.edu.cn](mailto:houyupeng@ruc.edu.cn), and cc Wayne Xin Zhao via [batmanfly@gmail.com](mailto:batmanfly@gmail.com).
