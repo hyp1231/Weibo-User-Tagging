@@ -1,5 +1,5 @@
 # Weibo Tagging
-This repository contains the dataset and the source code for the TOIS paper "Learning Semantic Representations from Directed Social Links to Tag Microblog Users at Scale".
+This repository contains the dataset and the source code for the TOIS paper "Learning Semantic Representations from Directed Social Links to Tag Microblog Users at Scale" (*Under revision*).
 
 ## Directory
 - [Download and Usage](#Download-and-Usage)
