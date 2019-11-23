@@ -8,7 +8,7 @@ This repository contains the dataset and the source code for the TOIS paper "Lea
 - [Additional Notes](#Additional-Notes)
 
 ## Download and Usage
-By using the datasets, you must agree to be bound by the terms of the following [license](#Licence).
+- By using the datasets, you must agree to be bound by the terms of the following [license](#Licence).
 - Then mail to [houyupeng@ruc.edu.cn](mailto:houyupeng@ruc.edu.cn) and cc Wayne Xin Zhao via [batmanfly@gmail.com](mailto:batmanfly@gmail.com) and your supervisor, and **copy the license in the email**. We will send you the datasets by e-mail when approved.
 
 ## License
