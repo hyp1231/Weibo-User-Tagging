@@ -4,7 +4,6 @@ This repository contains the dataset and the source code for the TOIS paper "Lea
 ## Directory
 - [Download and Usage](#Download-and-Usage)
 - [License](#License)
-- [References](#References)
 - [Additional Notes](#Additional-Notes)
 
 ## Download and Usage
@@ -22,18 +21,6 @@ This dataset is made freely available to academic and non-academic entities for 
 3. That you do not distribute this dataset or modified versions. It is permissible to distribute derivative works in as far as they are abstract representations of this dataset (such as models trained on it or additional annotations that do not directly include any of our data) and do not allow to recover the dataset or something similar in character.
 4. That you may not use the dataset or any derivative work for commercial purposes as, for example, licensing or selling the data, or using the data with a purpose to procure a commercial gain.
 5. That all rights not expressly granted to you are reserved by us (Wayne Xin Zhao, School of Information, Renmin University of China).
-```
-
-## References
-If you use our dataset or useful in your research, please kindly cite our papers.
-
-```tex
-@article{wayne2019learning,
-  author={Wayne Xin Zhao, Yupeng Hou, Junhua Chen, Jonathan Zhu, Jing Yin, Hanting Su and Ji-Rong Wen},
-  title={Learning Semantic Representations from Directed Social Links to Tag Microblog Users at Scale},
-  journal={{ACM} Trans. Inf. Syst.},
-  year={2019},
-}
 ```
 
 ## Additional Notes
